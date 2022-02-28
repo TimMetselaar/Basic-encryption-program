@@ -1,5 +1,5 @@
 # The implementation of the RSA algorithm in Python
-The algorithm implemented in this respositoy is based on the classic RSA algorithm. The purpose of this project was to understand the math behind the algorithm and how to implement this in Python
+The algorithm implemented in this respositoy is based on the classic RSA algorithm. The purpose of this project was to understand the math behind the algorithm and how to implement this in a working script.
 
 # Math used
 <li>Modular arithmetic</li>

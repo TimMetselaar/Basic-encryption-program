@@ -9,7 +9,8 @@
 <li>Euler's totient function</li>
 
 # Features
-<li>Generating prime numbers</li>
-<li></li>
-<li></li>
-<li></li>
+<li>Generate prime numbers</li>
+<li>Calculate greatest common divider of two numbers</li>
+<li>Generate public and private key</li>
+<li>Encrypt message</li>
+<li>Decrypt message</li>
